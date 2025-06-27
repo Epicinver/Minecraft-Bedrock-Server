@@ -203,10 +203,7 @@ Bye!
 
 
 
-# secrets
 
-woah why r u here
-so yeah this may not work
 
 
 
@@ -258053,38 +258050,3 @@ so yeah this may not work
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Yeah this probably doesn't work
-Why the frick are you scrolling this far???
